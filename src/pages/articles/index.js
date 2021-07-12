@@ -18,7 +18,7 @@ const Articles = ({ data }) => {
             <Link to={"/articles/" + article.frontmatter.slug} key={article.id}>
               <div>
                 <h3>{article.frontmatter.title}</h3>
-                <h4> Description: {article.frontmatter.description}</h4>
+                <h4> {article.frontmatter.description}</h4>
               </div>
             </Link>
           ))}
