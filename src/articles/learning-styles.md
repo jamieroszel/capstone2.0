@@ -1,5 +1,5 @@
 ---
-title: Why Learning Styles are a Myth
+title: Why the Myth of Learning Styles Just Won't Die
 topic: learning
 description: Learning styles are a myth...why does the myth persist?
 slug: learning-styles-are-myth
@@ -23,4 +23,11 @@ So, what is to be made of this learning style phenomenon? How should we tackle o
 ### Present the information as it should be presented
 
 Some information is best presented visually, due to its natural complexity. Pretty much no one wants to listen to a half-hour lecture on the parts of an internal combustion engine: show an engine diagram, or, even better, a [video walkthrough](https://youtu.be/ZQvfHyfgBtA). 
+
+However, the information and the medium must be matched. Just because you've watched a video on how engines work doesn't mean you can now take it apart and put it back together. If you're the learner, ask yourself: what do I need to do with this newfound knowledge? 
+
+### Play to your Weaknesses
+Do you know which way a tree falls over? In the direction in which it leans. 
+
+Don't cater to your weakest areas. Challenge yourself to learn in new, unfamiliar ways; give your brain a novel challenge that forces you to focus and adapt. 
 
