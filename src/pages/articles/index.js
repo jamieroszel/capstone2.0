@@ -12,7 +12,7 @@ const Articles = ({ data }) => {
     <Layout>
       <div className={styles.articleIndex}>
         <h2>Articles</h2>
-        <h3>Various articles</h3>
+        <h3>Check out some of writing below</h3>
         <div className={styles.articles}>
           {articles.map(article => (
             <Link to={"/articles/" + article.frontmatter.slug} key={article.id}>
