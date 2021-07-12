@@ -8,7 +8,6 @@ thumb: ../images/thumbs/taking_notes.jpg
 featuredImg: ../images/featured/learning.jpg
 ---
 
-# Why Learning Styles are a Myth
 Along with the fact that mitochondria are the powerhouse of the cell, it would seem that one of the main takeaways of early education is the opportunity to learn and embrace one's "learning style." 
 
 ![Reading in bed](https://images.unsplash.com/photo-1532774821765-7403258cb2fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
@@ -23,10 +22,7 @@ Similarly, many of us seem to have left school armed with how we *can't* learn, 
 
 So, what is to be made of this learning style phenomenon? How should we tackle our own learning?
 
-## Present the information as it should be presented
+### Present the information as it should be presented
 
-Some information is best presented visually, due to its natural complexity. Pretty much no one wants to listen to a half-hour lecture on the parts of an internal combustion engine: show an engine diagram, or, even better, a video walkthrough. 
-
-[![How a Car Engine Works](https://img.youtube.com/vi/ZQvfHyfgBtA/default.jpg  
-)](https://youtu.be/ZQvfHyfgBtA)
+Some information is best presented visually, due to its natural complexity. Pretty much no one wants to listen to a half-hour lecture on the parts of an internal combustion engine: show an engine diagram, or, even better, a [video walkthrough](https://youtu.be/ZQvfHyfgBtA). 
 
