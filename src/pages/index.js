@@ -8,9 +8,9 @@ export default function Home({data}) {
     <Layout>
       <section className={styles.header}>
         <div>
-          <h2>Markdown Dev</h2>
+          <h2>Markdown Blog</h2>
           <h3>A place to organize my thoughts</h3>
-          <p>Markdown Dev is maintained by Jamie Roszel, a technical writer based in Apex, NC. </p>
+          <p>Markdown Blog is maintained by Jamie Roszel, a technical writer based in Apex, NC. </p>
           <Link className={styles.btn} to="/articles">Read on...</Link>
         </div>
       </section>
