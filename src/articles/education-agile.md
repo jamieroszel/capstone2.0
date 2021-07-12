@@ -4,8 +4,6 @@ topic: learning
 description: What if high school classrooms, especially the humanities, were more agile?
 slug: education-agile
 date: 2021-04-20T00:00:00+00:00 
-thumb: ../images/thumbs/agile_notes.jpg
-featuredImg: ../images/featured/agile.jpg
 ---
 
 <img src="https://cdn-images-1.medium.com/max/600/0*NpPSq67za3dzN56M" alt="factory" width="300"/>

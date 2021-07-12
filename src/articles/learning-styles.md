@@ -4,8 +4,6 @@ topic: learning
 description: Learning styles are a myth...why does the myth persist?
 slug: learning-styles-are-myth
 date: 2021-07-11T00:00:00+00:00 
-thumb: ../images/thumbs/taking_notes.jpg
-featuredImg: ../images/featured/learning.jpg
 ---
 
 Along with the fact that mitochondria are the powerhouse of the cell, it would seem that one of the main takeaways of early education is the opportunity to learn and embrace one's "learning style." 
