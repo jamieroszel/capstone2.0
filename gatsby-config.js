@@ -33,7 +33,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Markdown Dev',
+    title: 'Markdown Blog',
     description: 'A place to organize my thoughts',
     copyright: '2021 Jamie Roszel',
     contact: 'jamie.s.roszel@gmail.com'
