@@ -103,3 +103,34 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+# About this build
+## Gatsby
+Gatsby is a static site generator (SSG). A static site generator builds a static HTML page from templates, components, and data.
+
+Static websites are great for SEO, but can be hard to maintain (because you have to manually update each element of each page) and they can be slow because they send a request to the server each time a page loads. 
+
+A single page application (SPA)(React / Vue) is fast and easy to update, but terrible for search engine optimization (SEO) because the initial request is a blank HTML page. 
+
+A static site generator (Gatsby) contains static pages that are compiled at build-time, using React components. After the initial request, an SSG is like an SPA but has the advantage of speed, SEO, and is easy to update - it's also easy to include dynamic information. 
+
+## GraphQL
+Gatsby uses a "content mesh" in GraphQL to construct queries for a variety of data sources, resulting in data from different possible sources in just one layer. 
+
+GraphQL is a query language that uses plug-in's and query schemas to return the correct data using the GraphQL API. 
+
+Gatsby provides GraphiQL at 
+```
+http://localhost:8000/___graphql
+```
+This is a great place to test queries.
+
+# Site Construction
+- The content for the layout and navbar are dynamically rendered using page queries in the gatsby-config file; this way, one update changes everything site-wide.
+- Styling is done by using separate styling components:
+  - one for a detailed article view
+  -  one for the articles index 
+  -  global styling
+  -  a home module for the index page
+
+- Articles are written in markdown format and are dynamically rendered into the articles index page, pulling the front matter metadata to provide title, description, and organize chronologically using timestamps. 
